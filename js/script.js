@@ -1,4 +1,4 @@
-jQuery(document).ready(function(){
+jQuery (document) . ready(function ($){
     $('#convertercm').on('submit', function(event){
         alert('Form Submission Intercepted!');
         event.preventDefault();
